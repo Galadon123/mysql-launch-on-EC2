@@ -329,6 +329,10 @@ flask_mysql_docker/
 
    ![](./images/7.png)
 
+3. **Get the Public IP of EC2 instance**
+
+![](./images/4.png)
+
 Your EC2 instance is now accessible on port 5000 from anywhere.
 
 #### Step: Test Flask API from Web Browser
